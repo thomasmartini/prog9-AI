@@ -1,0 +1,4 @@
+.DS_Store
+symbols.json
+.vscode
+node_modules
